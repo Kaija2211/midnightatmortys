@@ -1207,3 +1207,4 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.03.20-20.46.13:780][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2025.03.20-20.46.13:790][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 [2025.03.20-20.46.13:933][787]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.03.20-20.46.45:814][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
